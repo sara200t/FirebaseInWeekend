@@ -1,2 +1,3 @@
 # FirebaseInWeekend
 Learning Firebase from Udacity course, "Firebase in a Weekend (Android)" 
+https://classroom.udacity.com/
