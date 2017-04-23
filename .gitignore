@@ -4,4 +4,5 @@
 local.properties
 build
 app/google-services.json
+FriendlyChatFunctions/functions/node_modules
 .DS_Store
